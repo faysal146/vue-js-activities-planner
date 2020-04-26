@@ -1,0 +1,120 @@
+{
+  "activities": [
+    {
+      "id": "t6w8fgp7mpk9gpsw2l",
+      "title": "learn node js",
+      "notes": "learn node js",
+      "categories": [
+        {
+          "id": "1546969225",
+          "text": "movies",
+          "background": "#27496d"
+        },
+        {
+          "id": "1546969049",
+          "text": "books",
+          "background": "#f4a548"
+        }
+      ],
+      "progress": 83,
+      "createdAt": 1587885120093,
+      "updatedAt": 1587915642017
+    },
+    {
+      "id": "prugz4b3uk9gptq74",
+      "title": "vue js",
+      "notes": "learn react js",
+      "categories": [
+        {
+          "id": "1546969225",
+          "text": "movies",
+          "background": "#27496d"
+        },
+        {
+          "id": "dhjfhddsijh",
+          "text": "programing",
+          "background": "#649d66"
+        },
+        {
+          "id": "1546969skdh",
+          "text": "sports",
+          "background": "#543864"
+        },
+        {
+          "id": "1546969049",
+          "text": "books",
+          "background": "#f4a548"
+        },
+        {
+          "id": "ksdhfjkshi",
+          "text": "musics",
+          "background": "#fa744f"
+        }
+      ],
+      "progress": 52,
+      "createdAt": 1587885159136,
+      "updatedAt": 1587915629076
+    },
+    {
+      "id": "lw7rvj49etkk9h806mg",
+      "title": "Learn React js",
+      "notes": "Learn React js",
+      "categories": [
+        {
+          "id": "dhjfhddsijh",
+          "text": "programing",
+          "background": "#649d66"
+        }
+      ],
+      "progress": 100,
+      "createdAt": 1587915693448,
+      "updatedAt": 1587919854090
+    },
+    {
+      "id": "c8g1n0h0kuk9h80sh0",
+      "title": "Learn Go",
+      "notes": "Go Lang",
+      "categories": [
+        {
+          "id": "dhjfhddsijh",
+          "text": "programing",
+          "background": "#649d66"
+        }
+      ],
+      "progress": 0,
+      "createdAt": 1587915721764,
+      "updatedAt": 1587915721764
+    }
+  ],
+  "categories": [
+    {
+      "id": "1546969049",
+      "text": "books",
+      "background": "#f4a548"
+    },
+    {
+      "id": "1546969225",
+      "text": "movies",
+      "background": "#27496d"
+    },
+    {
+      "id": "dhjfhddsijh",
+      "text": "programing",
+      "background": "#649d66"
+    },
+    {
+      "id": "1546969skdh",
+      "text": "sports",
+      "background": "#543864"
+    },
+    {
+      "id": "ksdhfjkshi",
+      "text": "musics",
+      "background": "#fa744f"
+    }
+  ],
+  "user": {
+    "name": "Faysal Ahmed",
+    "id": "-Aj34jknvncx98812"
+  }
+}
